@@ -1,0 +1,367 @@
+Datetime (UTC),Country,Zone Name,Zone Id,Carbon Intensity gCO₂eq/kWh (direct),Carbon Intensity gCO₂eq/kWh (LCA),Low Carbon Percentage,Renewable Percentage,Data Source
+2024-01-01 00:00:00,Brazil,North-East Brazil,BR-NE,68.35,104.97,88.11,87.20,ons.org.br
+2024-01-02 00:00:00,Brazil,North-East Brazil,BR-NE,65.55,102.03,88.60,87.80,ons.org.br
+2024-01-03 00:00:00,Brazil,North-East Brazil,BR-NE,53.93,87.17,90.62,90.04,ons.org.br
+2024-01-04 00:00:00,Brazil,North-East Brazil,BR-NE,48.96,81.69,91.48,90.94,ons.org.br
+2024-01-05 00:00:00,Brazil,North-East Brazil,BR-NE,38.98,68.95,93.22,92.82,ons.org.br
+2024-01-06 00:00:00,Brazil,North-East Brazil,BR-NE,28.19,54.73,95.10,94.77,ons.org.br
+2024-01-07 00:00:00,Brazil,North-East Brazil,BR-NE,29.47,57.05,94.88,94.55,ons.org.br
+2024-01-08 00:00:00,Brazil,North-East Brazil,BR-NE,45.40,77.67,92.10,91.76,ons.org.br
+2024-01-09 00:00:00,Brazil,North-East Brazil,BR-NE,52.88,84.53,90.80,90.61,ons.org.br
+2024-01-10 00:00:00,Brazil,North-East Brazil,BR-NE,42.71,70.53,92.57,92.57,ons.org.br
+2024-01-11 00:00:00,Brazil,North-East Brazil,BR-NE,42.02,69.70,92.69,92.67,ons.org.br
+2024-01-12 00:00:00,Brazil,North-East Brazil,BR-NE,36.66,64.40,93.62,93.55,ons.org.br
+2024-01-13 00:00:00,Brazil,North-East Brazil,BR-NE,37.27,65.20,93.52,93.43,ons.org.br
+2024-01-14 00:00:00,Brazil,North-East Brazil,BR-NE,17.59,41.31,96.94,96.86,ons.org.br
+2024-01-15 00:00:00,Brazil,North-East Brazil,BR-NE,14.50,36.84,97.48,97.45,ons.org.br
+2024-01-16 00:00:00,Brazil,North-East Brazil,BR-NE,13.02,34.09,97.74,97.73,ons.org.br
+2024-01-17 00:00:00,Brazil,North-East Brazil,BR-NE,12.69,34.70,97.79,97.79,ons.org.br
+2024-01-18 00:00:00,Brazil,North-East Brazil,BR-NE,20.24,45.01,96.48,96.46,ons.org.br
+2024-01-19 00:00:00,Brazil,North-East Brazil,BR-NE,33.44,61.31,94.18,94.09,ons.org.br
+2024-01-20 00:00:00,Brazil,North-East Brazil,BR-NE,38.29,68.34,93.34,93.13,ons.org.br
+2024-01-21 00:00:00,Brazil,North-East Brazil,BR-NE,41.18,72.25,92.84,92.45,ons.org.br
+2024-01-22 00:00:00,Brazil,North-East Brazil,BR-NE,49.02,81.68,91.47,91.00,Electricity Maps Estimation; ons.org.br
+2024-01-23 00:00:00,Brazil,North-East Brazil,BR-NE,41.35,71.01,92.81,92.41,ons.org.br
+2024-01-24 00:00:00,Brazil,North-East Brazil,BR-NE,38.94,69.19,93.23,92.71,ons.org.br
+2024-01-25 00:00:00,Brazil,North-East Brazil,BR-NE,32.29,60.56,94.38,93.88,ons.org.br
+2024-01-26 00:00:00,Brazil,North-East Brazil,BR-NE,22.96,48.34,96.01,95.61,ons.org.br
+2024-01-27 00:00:00,Brazil,North-East Brazil,BR-NE,27.32,52.42,95.25,95.02,ons.org.br
+2024-01-28 00:00:00,Brazil,North-East Brazil,BR-NE,23.50,47.53,95.91,95.75,ons.org.br
+2024-01-29 00:00:00,Brazil,North-East Brazil,BR-NE,19.66,43.28,96.58,96.52,ons.org.br
+2024-01-30 00:00:00,Brazil,North-East Brazil,BR-NE,18.71,43.57,96.74,96.70,ons.org.br
+2024-01-31 00:00:00,Brazil,North-East Brazil,BR-NE,17.74,42.38,96.91,96.87,ons.org.br
+2024-02-01 00:00:00,Brazil,North-East Brazil,BR-NE,14.71,35.96,97.44,97.44,ons.org.br
+2024-02-02 00:00:00,Brazil,North-East Brazil,BR-NE,16.40,37.46,97.15,97.15,ons.org.br
+2024-02-03 00:00:00,Brazil,North-East Brazil,BR-NE,21.06,43.18,96.34,96.34,ons.org.br
+2024-02-04 00:00:00,Brazil,North-East Brazil,BR-NE,13.19,31.79,97.71,97.71,ons.org.br
+2024-02-05 00:00:00,Brazil,North-East Brazil,BR-NE,12.06,31.90,97.90,97.90,ons.org.br
+2024-02-06 00:00:00,Brazil,North-East Brazil,BR-NE,14.09,35.76,97.55,97.55,ons.org.br
+2024-02-07 00:00:00,Brazil,North-East Brazil,BR-NE,14.25,35.97,97.52,97.52,ons.org.br
+2024-02-08 00:00:00,Brazil,North-East Brazil,BR-NE,15.95,37.65,97.23,97.21,Electricity Maps Estimation; ons.org.br
+2024-02-09 00:00:00,Brazil,North-East Brazil,BR-NE,18.17,40.11,96.84,96.80,ons.org.br
+2024-02-10 00:00:00,Brazil,North-East Brazil,BR-NE,17.65,38.51,96.93,96.90,ons.org.br
+2024-02-11 00:00:00,Brazil,North-East Brazil,BR-NE,14.05,33.71,97.56,97.56,ons.org.br
+2024-02-12 00:00:00,Brazil,North-East Brazil,BR-NE,12.58,31.77,97.81,97.81,ons.org.br
+2024-02-13 00:00:00,Brazil,North-East Brazil,BR-NE,14.07,34.79,97.55,97.55,Electricity Maps Estimation; ons.org.br
+2024-02-14 00:00:00,Brazil,North-East Brazil,BR-NE,19.33,44.61,96.64,96.57,ons.org.br
+2024-02-15 00:00:00,Brazil,North-East Brazil,BR-NE,22.65,50.04,96.06,95.92,ons.org.br
+2024-02-16 00:00:00,Brazil,North-East Brazil,BR-NE,22.63,50.01,96.06,95.93,ons.org.br
+2024-02-17 00:00:00,Brazil,North-East Brazil,BR-NE,24.94,53.22,95.66,95.47,ons.org.br
+2024-02-18 00:00:00,Brazil,North-East Brazil,BR-NE,23.72,50.07,95.87,95.71,ons.org.br
+2024-02-19 00:00:00,Brazil,North-East Brazil,BR-NE,23.54,50.73,95.91,95.74,ons.org.br
+2024-02-20 00:00:00,Brazil,North-East Brazil,BR-NE,26.29,56.29,95.43,95.13,ons.org.br
+2024-02-21 00:00:00,Brazil,North-East Brazil,BR-NE,28.00,57.65,95.13,94.84,ons.org.br
+2024-02-22 00:00:00,Brazil,North-East Brazil,BR-NE,30.03,60.78,94.78,94.46,ons.org.br
+2024-02-23 00:00:00,Brazil,North-East Brazil,BR-NE,24.90,53.18,95.67,95.48,ons.org.br
+2024-02-24 00:00:00,Brazil,North-East Brazil,BR-NE,14.58,36.46,97.46,97.46,ons.org.br
+2024-02-25 00:00:00,Brazil,North-East Brazil,BR-NE,14.14,34.53,97.54,97.54,ons.org.br
+2024-02-26 00:00:00,Brazil,North-East Brazil,BR-NE,15.28,37.40,97.34,97.33,ons.org.br
+2024-02-27 00:00:00,Brazil,North-East Brazil,BR-NE,16.15,39.46,97.19,97.18,ons.org.br
+2024-02-28 00:00:00,Brazil,North-East Brazil,BR-NE,19.83,46.21,96.55,96.50,ons.org.br
+2024-02-29 00:00:00,Brazil,North-East Brazil,BR-NE,25.06,55.63,95.64,95.45,ons.org.br
+2024-03-01 00:00:00,Brazil,North-East Brazil,BR-NE,27.41,59.21,95.23,94.97,ons.org.br
+2024-03-02 00:00:00,Brazil,North-East Brazil,BR-NE,29.13,61.18,94.93,94.69,Electricity Maps Estimation; ons.org.br
+2024-03-03 00:00:00,Brazil,North-East Brazil,BR-NE,26.72,55.72,95.35,95.12,ons.org.br
+2024-03-04 00:00:00,Brazil,North-East Brazil,BR-NE,26.00,55.37,95.48,95.29,ons.org.br
+2024-03-05 00:00:00,Brazil,North-East Brazil,BR-NE,22.66,51.19,96.06,95.91,ons.org.br
+2024-03-06 00:00:00,Brazil,North-East Brazil,BR-NE,14.92,37.94,97.41,97.41,ons.org.br
+2024-03-07 00:00:00,Brazil,North-East Brazil,BR-NE,13.26,34.73,97.69,97.69,ons.org.br
+2024-03-08 00:00:00,Brazil,North-East Brazil,BR-NE,14.64,36.56,97.45,97.29,ons.org.br
+2024-03-09 00:00:00,Brazil,North-East Brazil,BR-NE,16.50,40.98,97.13,97.10,ons.org.br
+2024-03-10 00:00:00,Brazil,North-East Brazil,BR-NE,17.23,42.12,97.00,96.96,ons.org.br
+2024-03-11 00:00:00,Brazil,North-East Brazil,BR-NE,20.23,48.54,96.48,96.39,ons.org.br
+2024-03-12 00:00:00,Brazil,North-East Brazil,BR-NE,22.89,51.58,96.02,95.88,ons.org.br
+2024-03-13 00:00:00,Brazil,North-East Brazil,BR-NE,20.42,46.82,96.45,96.39,ons.org.br
+2024-03-14 00:00:00,Brazil,North-East Brazil,BR-NE,16.61,41.57,97.11,97.10,ons.org.br
+2024-03-15 00:00:00,Brazil,North-East Brazil,BR-NE,12.60,34.59,97.81,97.81,ons.org.br
+2024-03-16 00:00:00,Brazil,North-East Brazil,BR-NE,13.97,37.07,97.57,97.55,ons.org.br
+2024-03-17 00:00:00,Brazil,North-East Brazil,BR-NE,15.93,39.61,97.23,97.18,ons.org.br
+2024-03-18 00:00:00,Brazil,North-East Brazil,BR-NE,19.48,45.79,96.61,96.54,ons.org.br
+2024-03-19 00:00:00,Brazil,North-East Brazil,BR-NE,35.90,64.22,93.76,93.72,ons.org.br
+2024-03-20 00:00:00,Brazil,North-East Brazil,BR-NE,37.95,67.74,93.40,93.35,ons.org.br
+2024-03-21 00:00:00,Brazil,North-East Brazil,BR-NE,29.17,57.39,94.93,94.86,ons.org.br
+2024-03-22 00:00:00,Brazil,North-East Brazil,BR-NE,13.84,38.60,97.59,97.54,ons.org.br
+2024-03-23 00:00:00,Brazil,North-East Brazil,BR-NE,15.36,38.87,97.33,97.29,ons.org.br
+2024-03-24 00:00:00,Brazil,North-East Brazil,BR-NE,13.77,33.88,97.60,97.60,ons.org.br
+2024-03-25 00:00:00,Brazil,North-East Brazil,BR-NE,13.91,36.44,97.58,97.56,ons.org.br
+2024-03-26 00:00:00,Brazil,North-East Brazil,BR-NE,21.61,49.20,96.24,96.13,ons.org.br
+2024-03-27 00:00:00,Brazil,North-East Brazil,BR-NE,16.82,40.64,97.07,97.04,ons.org.br
+2024-03-28 00:00:00,Brazil,North-East Brazil,BR-NE,11.81,31.96,97.95,97.94,ons.org.br
+2024-03-29 00:00:00,Brazil,North-East Brazil,BR-NE,12.68,32.43,97.79,97.79,ons.org.br
+2024-03-30 00:00:00,Brazil,North-East Brazil,BR-NE,18.98,43.75,96.70,96.62,ons.org.br
+2024-03-31 00:00:00,Brazil,North-East Brazil,BR-NE,25.18,55.53,95.62,95.38,ons.org.br
+2024-04-01 00:00:00,Brazil,North-East Brazil,BR-NE,29.51,60.49,94.87,94.67,ons.org.br
+2024-04-02 00:00:00,Brazil,North-East Brazil,BR-NE,36.69,69.32,93.62,93.31,ons.org.br
+2024-04-03 00:00:00,Brazil,North-East Brazil,BR-NE,25.95,56.29,95.49,95.22,ons.org.br
+2024-04-04 00:00:00,Brazil,North-East Brazil,BR-NE,29.82,60.66,94.81,94.55,ons.org.br
+2024-04-05 00:00:00,Brazil,North-East Brazil,BR-NE,23.85,51.17,95.85,95.76,Electricity Maps Estimation; ons.org.br
+2024-04-06 00:00:00,Brazil,North-East Brazil,BR-NE,15.91,40.44,97.23,97.18,Electricity Maps Estimation; ons.org.br
+2024-04-07 00:00:00,Brazil,North-East Brazil,BR-NE,14.09,37.12,97.55,97.55,Electricity Maps Estimation; ons.org.br
+2024-04-08 00:00:00,Brazil,North-East Brazil,BR-NE,12.40,35.35,97.84,97.82,Electricity Maps Estimation; ons.org.br
+2024-04-09 00:00:00,Brazil,North-East Brazil,BR-NE,15.26,40.41,97.35,97.28,Electricity Maps Estimation; ons.org.br
+2024-04-10 00:00:00,Brazil,North-East Brazil,BR-NE,23.95,52.00,95.84,95.73,Electricity Maps Estimation; ons.org.br
+2024-04-11 00:00:00,Brazil,North-East Brazil,BR-NE,28.11,57.82,95.11,94.91,Electricity Maps Estimation; ons.org.br
+2024-04-12 00:00:00,Brazil,North-East Brazil,BR-NE,13.94,37.72,97.58,97.53,Electricity Maps Estimation; ons.org.br
+2024-04-13 00:00:00,Brazil,North-East Brazil,BR-NE,11.87,33.87,97.94,97.93,Electricity Maps Estimation; ons.org.br
+2024-04-14 00:00:00,Brazil,North-East Brazil,BR-NE,12.32,34.32,97.86,97.85,Electricity Maps Estimation; ons.org.br
+2024-04-15 00:00:00,Brazil,North-East Brazil,BR-NE,12.38,35.02,97.85,97.84,Electricity Maps Estimation; ons.org.br
+2024-04-16 00:00:00,Brazil,North-East Brazil,BR-NE,12.06,33.42,97.90,97.90,Electricity Maps Estimation; ons.org.br
+2024-04-17 00:00:00,Brazil,North-East Brazil,BR-NE,12.62,34.66,97.81,97.80,Electricity Maps Estimation; ons.org.br
+2024-04-18 00:00:00,Brazil,North-East Brazil,BR-NE,14.87,38.53,97.41,97.38,Electricity Maps Estimation; ons.org.br
+2024-04-19 00:00:00,Brazil,North-East Brazil,BR-NE,16.82,40.45,97.07,97.04,Electricity Maps Estimation; ons.org.br
+2024-04-20 00:00:00,Brazil,North-East Brazil,BR-NE,13.88,34.67,97.59,97.58,Electricity Maps Estimation; ons.org.br
+2024-04-21 00:00:00,Brazil,North-East Brazil,BR-NE,19.07,41.74,96.68,96.68,Electricity Maps Estimation; ons.org.br
+2024-04-22 00:00:00,Brazil,North-East Brazil,BR-NE,16.42,39.46,97.14,97.14,Electricity Maps Estimation; ons.org.br
+2024-04-23 00:00:00,Brazil,North-East Brazil,BR-NE,19.73,45.05,96.57,96.52,Electricity Maps Estimation; ons.org.br
+2024-04-24 00:00:00,Brazil,North-East Brazil,BR-NE,15.90,39.25,97.24,97.22,Electricity Maps Estimation; ons.org.br
+2024-04-25 00:00:00,Brazil,North-East Brazil,BR-NE,15.08,38.40,97.38,97.37,Electricity Maps Estimation; ons.org.br
+2024-04-26 00:00:00,Brazil,North-East Brazil,BR-NE,13.80,35.28,97.60,97.60,ons.org.br
+2024-04-27 00:00:00,Brazil,North-East Brazil,BR-NE,14.53,35.34,97.47,97.47,Electricity Maps Estimation; ons.org.br
+2024-04-28 00:00:00,Brazil,North-East Brazil,BR-NE,16.88,39.29,97.07,97.06,Electricity Maps Estimation; ons.org.br
+2024-04-29 00:00:00,Brazil,North-East Brazil,BR-NE,17.71,40.41,96.92,96.91,Electricity Maps Estimation; ons.org.br
+2024-04-30 00:00:00,Brazil,North-East Brazil,BR-NE,16.79,40.07,97.08,97.05,Electricity Maps Estimation; ons.org.br
+2024-05-01 00:00:00,Brazil,North-East Brazil,BR-NE,14.33,36.02,97.51,97.50,ons.org.br
+2024-05-02 00:00:00,Brazil,North-East Brazil,BR-NE,13.14,35.96,97.71,97.70,ons.org.br
+2024-05-03 00:00:00,Brazil,North-East Brazil,BR-NE,10.36,30.76,98.20,98.20,ons.org.br
+2024-05-04 00:00:00,Brazil,North-East Brazil,BR-NE,10.13,29.26,98.24,98.24,ons.org.br
+2024-05-05 00:00:00,Brazil,North-East Brazil,BR-NE,10.19,28.84,98.23,98.23,ons.org.br
+2024-05-06 00:00:00,Brazil,North-East Brazil,BR-NE,9.46,28.65,98.35,98.35,ons.org.br
+2024-05-07 00:00:00,Brazil,North-East Brazil,BR-NE,10.15,30.08,98.24,98.24,ons.org.br
+2024-05-08 00:00:00,Brazil,North-East Brazil,BR-NE,10.62,30.92,98.15,98.15,ons.org.br
+2024-05-09 00:00:00,Brazil,North-East Brazil,BR-NE,8.33,27.90,98.55,98.55,ons.org.br
+2024-05-10 00:00:00,Brazil,North-East Brazil,BR-NE,7.48,28.28,98.70,98.68,ons.org.br
+2024-05-11 00:00:00,Brazil,North-East Brazil,BR-NE,10.33,32.18,98.20,98.20,ons.org.br
+2024-05-12 00:00:00,Brazil,North-East Brazil,BR-NE,13.29,35.51,97.69,97.67,ons.org.br
+2024-05-13 00:00:00,Brazil,North-East Brazil,BR-NE,12.85,37.17,97.77,97.75,ons.org.br
+2024-05-14 00:00:00,Brazil,North-East Brazil,BR-NE,12.05,35.78,97.90,97.88,ons.org.br
+2024-05-15 00:00:00,Brazil,North-East Brazil,BR-NE,8.65,28.72,98.50,98.50,ons.org.br
+2024-05-16 00:00:00,Brazil,North-East Brazil,BR-NE,7.87,27.06,98.63,98.63,ons.org.br
+2024-05-17 00:00:00,Brazil,North-East Brazil,BR-NE,9.24,28.96,98.39,98.39,ons.org.br
+2024-05-18 00:00:00,Brazil,North-East Brazil,BR-NE,14.12,37.52,97.54,97.52,ons.org.br
+2024-05-19 00:00:00,Brazil,North-East Brazil,BR-NE,12.52,33.61,97.82,97.82,ons.org.br
+2024-05-20 00:00:00,Brazil,North-East Brazil,BR-NE,12.37,33.95,97.85,97.85,ons.org.br
+2024-05-21 00:00:00,Brazil,North-East Brazil,BR-NE,11.12,31.43,98.07,98.07,ons.org.br
+2024-05-22 00:00:00,Brazil,North-East Brazil,BR-NE,10.74,30.24,98.13,98.13,ons.org.br
+2024-05-23 00:00:00,Brazil,North-East Brazil,BR-NE,11.16,31.14,98.06,98.06,ons.org.br
+2024-05-24 00:00:00,Brazil,North-East Brazil,BR-NE,11.70,32.48,97.97,97.96,ons.org.br
+2024-05-25 00:00:00,Brazil,North-East Brazil,BR-NE,11.66,32.29,97.97,97.97,Electricity Maps Estimation; ons.org.br
+2024-05-26 00:00:00,Brazil,North-East Brazil,BR-NE,11.48,30.98,98.00,98.00,ons.org.br
+2024-05-27 00:00:00,Brazil,North-East Brazil,BR-NE,11.00,31.44,98.09,98.09,ons.org.br
+2024-05-28 00:00:00,Brazil,North-East Brazil,BR-NE,7.69,28.07,98.66,98.66,ons.org.br
+2024-05-29 00:00:00,Brazil,North-East Brazil,BR-NE,8.01,29.81,98.61,98.58,ons.org.br
+2024-05-30 00:00:00,Brazil,North-East Brazil,BR-NE,9.25,30.99,98.39,98.38,ons.org.br
+2024-05-31 00:00:00,Brazil,North-East Brazil,BR-NE,8.19,27.67,98.58,98.58,ons.org.br
+2024-06-01 00:00:00,Brazil,North-East Brazil,BR-NE,8.14,26.50,98.58,98.58,Electricity Maps Estimation; ons.org.br
+2024-06-02 00:00:00,Brazil,North-East Brazil,BR-NE,9.45,28.55,98.36,98.36,ons.org.br
+2024-06-03 00:00:00,Brazil,North-East Brazil,BR-NE,8.03,27.56,98.60,98.60,ons.org.br
+2024-06-04 00:00:00,Brazil,North-East Brazil,BR-NE,10.39,30.98,98.19,98.19,ons.org.br
+2024-06-05 00:00:00,Brazil,North-East Brazil,BR-NE,11.21,31.04,98.05,98.05,ons.org.br
+2024-06-06 00:00:00,Brazil,North-East Brazil,BR-NE,10.50,29.69,98.17,98.17,ons.org.br
+2024-06-07 00:00:00,Brazil,North-East Brazil,BR-NE,11.04,30.83,98.08,98.08,ons.org.br
+2024-06-08 00:00:00,Brazil,North-East Brazil,BR-NE,11.00,30.49,98.09,98.09,Electricity Maps Estimation; ons.org.br
+2024-06-09 00:00:00,Brazil,North-East Brazil,BR-NE,11.48,30.62,98.00,98.00,ons.org.br
+2024-06-10 00:00:00,Brazil,North-East Brazil,BR-NE,12.10,32.06,97.90,97.90,ons.org.br
+2024-06-11 00:00:00,Brazil,North-East Brazil,BR-NE,10.58,30.16,98.16,98.16,ons.org.br
+2024-06-12 00:00:00,Brazil,North-East Brazil,BR-NE,10.44,29.42,98.18,98.18,ons.org.br
+2024-06-13 00:00:00,Brazil,North-East Brazil,BR-NE,9.86,29.06,98.29,98.29,ons.org.br
+2024-06-14 00:00:00,Brazil,North-East Brazil,BR-NE,11.37,30.41,98.02,98.02,ons.org.br
+2024-06-15 00:00:00,Brazil,North-East Brazil,BR-NE,10.69,29.79,98.14,98.14,ons.org.br
+2024-06-16 00:00:00,Brazil,North-East Brazil,BR-NE,12.19,31.78,97.88,97.88,ons.org.br
+2024-06-17 00:00:00,Brazil,North-East Brazil,BR-NE,12.72,33.50,97.79,97.79,ons.org.br
+2024-06-18 00:00:00,Brazil,North-East Brazil,BR-NE,11.94,31.63,97.92,97.92,ons.org.br
+2024-06-19 00:00:00,Brazil,North-East Brazil,BR-NE,11.52,31.23,98.00,98.00,ons.org.br
+2024-06-20 00:00:00,Brazil,North-East Brazil,BR-NE,11.15,29.83,98.06,98.06,ons.org.br
+2024-06-21 00:00:00,Brazil,North-East Brazil,BR-NE,10.40,29.92,98.19,98.19,ons.org.br
+2024-06-22 00:00:00,Brazil,North-East Brazil,BR-NE,9.44,28.28,98.36,98.36,ons.org.br
+2024-06-23 00:00:00,Brazil,North-East Brazil,BR-NE,10.30,29.88,98.21,98.21,ons.org.br
+2024-06-24 00:00:00,Brazil,North-East Brazil,BR-NE,9.97,30.43,98.27,98.27,ons.org.br
+2024-06-25 00:00:00,Brazil,North-East Brazil,BR-NE,8.86,29.59,98.46,98.46,ons.org.br
+2024-06-26 00:00:00,Brazil,North-East Brazil,BR-NE,12.88,33.87,97.76,97.76,ons.org.br
+2024-06-27 00:00:00,Brazil,North-East Brazil,BR-NE,13.81,36.68,97.60,97.59,ons.org.br
+2024-06-28 00:00:00,Brazil,North-East Brazil,BR-NE,13.19,35.61,97.71,97.70,ons.org.br
+2024-06-29 00:00:00,Brazil,North-East Brazil,BR-NE,10.48,32.21,98.18,98.17,ons.org.br
+2024-06-30 00:00:00,Brazil,North-East Brazil,BR-NE,10.71,32.09,98.14,98.14,ons.org.br
+2024-07-01 00:00:00,Brazil,North-East Brazil,BR-NE,8.81,28.70,98.47,98.47,ons.org.br
+2024-07-02 00:00:00,Brazil,North-East Brazil,BR-NE,8.21,26.12,98.57,98.57,ons.org.br
+2024-07-03 00:00:00,Brazil,North-East Brazil,BR-NE,8.82,27.48,98.47,98.47,ons.org.br
+2024-07-04 00:00:00,Brazil,North-East Brazil,BR-NE,14.07,34.24,97.55,97.55,ons.org.br
+2024-07-05 00:00:00,Brazil,North-East Brazil,BR-NE,18.51,40.87,96.78,96.78,ons.org.br
+2024-07-06 00:00:00,Brazil,North-East Brazil,BR-NE,15.79,37.91,97.25,97.24,ons.org.br
+2024-07-07 00:00:00,Brazil,North-East Brazil,BR-NE,11.14,30.16,98.06,98.06,ons.org.br
+2024-07-08 00:00:00,Brazil,North-East Brazil,BR-NE,8.99,29.12,98.43,98.43,ons.org.br
+2024-07-09 00:00:00,Brazil,North-East Brazil,BR-NE,9.48,30.81,98.35,98.35,ons.org.br
+2024-07-10 00:00:00,Brazil,North-East Brazil,BR-NE,9.70,29.54,98.31,98.31,ons.org.br
+2024-07-11 00:00:00,Brazil,North-East Brazil,BR-NE,8.77,27.58,98.47,98.47,ons.org.br
+2024-07-12 00:00:00,Brazil,North-East Brazil,BR-NE,8.66,26.58,98.49,98.49,ons.org.br
+2024-07-13 00:00:00,Brazil,North-East Brazil,BR-NE,8.73,27.31,98.48,98.48,ons.org.br
+2024-07-14 00:00:00,Brazil,North-East Brazil,BR-NE,8.93,27.25,98.45,98.45,ons.org.br
+2024-07-15 00:00:00,Brazil,North-East Brazil,BR-NE,9.09,27.89,98.42,98.42,ons.org.br
+2024-07-16 00:00:00,Brazil,North-East Brazil,BR-NE,9.19,27.80,98.40,98.40,ons.org.br
+2024-07-17 00:00:00,Brazil,North-East Brazil,BR-NE,9.12,27.88,98.41,98.41,ons.org.br
+2024-07-18 00:00:00,Brazil,North-East Brazil,BR-NE,14.22,35.06,97.53,97.53,ons.org.br
+2024-07-19 00:00:00,Brazil,North-East Brazil,BR-NE,10.36,29.50,98.20,98.20,ons.org.br
+2024-07-20 00:00:00,Brazil,North-East Brazil,BR-NE,9.18,28.65,98.40,98.40,ons.org.br
+2024-07-21 00:00:00,Brazil,North-East Brazil,BR-NE,10.33,30.16,98.20,98.20,ons.org.br
+2024-07-22 00:00:00,Brazil,North-East Brazil,BR-NE,9.24,27.95,98.39,98.39,ons.org.br
+2024-07-23 00:00:00,Brazil,North-East Brazil,BR-NE,7.98,25.85,98.61,98.61,ons.org.br
+2024-07-24 00:00:00,Brazil,North-East Brazil,BR-NE,8.97,27.33,98.44,98.44,ons.org.br
+2024-07-25 00:00:00,Brazil,North-East Brazil,BR-NE,10.48,29.93,98.18,98.18,Electricity Maps Estimation; ons.org.br
+2024-07-26 00:00:00,Brazil,North-East Brazil,BR-NE,11.79,31.01,97.95,97.95,ons.org.br
+2024-07-27 00:00:00,Brazil,North-East Brazil,BR-NE,9.70,29.25,98.31,98.31,ons.org.br
+2024-07-28 00:00:00,Brazil,North-East Brazil,BR-NE,8.63,27.92,98.50,98.50,ons.org.br
+2024-07-29 00:00:00,Brazil,North-East Brazil,BR-NE,15.08,35.81,97.38,97.38,ons.org.br
+2024-07-30 00:00:00,Brazil,North-East Brazil,BR-NE,11.71,32.35,97.96,97.96,ons.org.br
+2024-07-31 00:00:00,Brazil,North-East Brazil,BR-NE,8.10,26.42,98.59,98.59,Electricity Maps Estimation; ons.org.br
+2024-08-01 00:00:00,Brazil,North-East Brazil,BR-NE,8.22,26.35,98.57,98.57,ons.org.br
+2024-08-02 00:00:00,Brazil,North-East Brazil,BR-NE,8.00,25.92,98.61,98.61,ons.org.br
+2024-08-03 00:00:00,Brazil,North-East Brazil,BR-NE,8.00,27.07,98.61,98.61,ons.org.br
+2024-08-04 00:00:00,Brazil,North-East Brazil,BR-NE,8.29,26.59,98.56,98.56,ons.org.br
+2024-08-05 00:00:00,Brazil,North-East Brazil,BR-NE,13.01,32.46,97.74,97.74,ons.org.br
+2024-08-06 00:00:00,Brazil,North-East Brazil,BR-NE,26.59,48.32,95.38,95.38,ons.org.br
+2024-08-07 00:00:00,Brazil,North-East Brazil,BR-NE,31.41,54.65,94.54,94.54,ons.org.br
+2024-08-08 00:00:00,Brazil,North-East Brazil,BR-NE,31.49,55.34,94.52,94.52,ons.org.br
+2024-08-09 00:00:00,Brazil,North-East Brazil,BR-NE,28.89,52.79,94.98,94.98,ons.org.br
+2024-08-10 00:00:00,Brazil,North-East Brazil,BR-NE,27.02,52.08,95.30,95.30,ons.org.br
+2024-08-11 00:00:00,Brazil,North-East Brazil,BR-NE,29.10,55.24,94.94,94.91,ons.org.br
+2024-08-12 00:00:00,Brazil,North-East Brazil,BR-NE,22.83,46.39,96.03,96.03,ons.org.br
+2024-08-13 00:00:00,Brazil,North-East Brazil,BR-NE,11.35,32.79,98.03,98.03,ons.org.br
+2024-08-14 00:00:00,Brazil,North-East Brazil,BR-NE,7.31,25.56,98.73,98.73,ons.org.br
+2024-08-15 00:00:00,Brazil,North-East Brazil,BR-NE,8.18,26.96,98.58,98.58,ons.org.br
+2024-08-16 00:00:00,Brazil,North-East Brazil,BR-NE,9.21,27.78,98.40,98.40,ons.org.br
+2024-08-17 00:00:00,Brazil,North-East Brazil,BR-NE,7.78,27.14,98.65,98.65,ons.org.br
+2024-08-18 00:00:00,Brazil,North-East Brazil,BR-NE,8.27,28.32,98.56,98.56,ons.org.br
+2024-08-19 00:00:00,Brazil,North-East Brazil,BR-NE,14.60,35.13,97.46,97.46,ons.org.br
+2024-08-20 00:00:00,Brazil,North-East Brazil,BR-NE,28.75,52.57,95.00,95.00,ons.org.br
+2024-08-21 00:00:00,Brazil,North-East Brazil,BR-NE,25.35,47.67,95.59,95.59,ons.org.br
+2024-08-22 00:00:00,Brazil,North-East Brazil,BR-NE,24.84,45.95,95.68,95.68,ons.org.br
+2024-08-23 00:00:00,Brazil,North-East Brazil,BR-NE,27.69,49.82,95.18,95.18,ons.org.br
+2024-08-24 00:00:00,Brazil,North-East Brazil,BR-NE,32.86,57.18,94.28,94.28,ons.org.br
+2024-08-25 00:00:00,Brazil,North-East Brazil,BR-NE,33.63,58.34,94.15,94.15,ons.org.br
+2024-08-26 00:00:00,Brazil,North-East Brazil,BR-NE,29.49,53.40,94.87,94.87,Electricity Maps Estimation; ons.org.br
+2024-08-27 00:00:00,Brazil,North-East Brazil,BR-NE,12.74,32.20,97.79,97.79,ons.org.br
+2024-08-28 00:00:00,Brazil,North-East Brazil,BR-NE,8.93,27.28,98.45,98.45,ons.org.br
+2024-08-29 00:00:00,Brazil,North-East Brazil,BR-NE,10.70,29.04,98.14,98.14,ons.org.br
+2024-08-30 00:00:00,Brazil,North-East Brazil,BR-NE,9.80,28.83,98.29,98.29,ons.org.br
+2024-08-31 00:00:00,Brazil,North-East Brazil,BR-NE,10.27,30.03,98.21,98.21,ons.org.br
+2024-09-01 00:00:00,Brazil,North-East Brazil,BR-NE,9.61,28.43,98.33,98.33,ons.org.br
+2024-09-02 00:00:00,Brazil,North-East Brazil,BR-NE,12.33,32.10,97.85,97.85,ons.org.br
+2024-09-03 00:00:00,Brazil,North-East Brazil,BR-NE,14.76,36.12,97.43,97.43,ons.org.br
+2024-09-04 00:00:00,Brazil,North-East Brazil,BR-NE,12.84,32.52,97.77,97.77,ons.org.br
+2024-09-05 00:00:00,Brazil,North-East Brazil,BR-NE,12.74,32.80,97.78,97.78,ons.org.br
+2024-09-06 00:00:00,Brazil,North-East Brazil,BR-NE,13.48,34.78,97.66,97.66,ons.org.br
+2024-09-07 00:00:00,Brazil,North-East Brazil,BR-NE,10.21,29.08,98.23,98.23,ons.org.br
+2024-09-08 00:00:00,Brazil,North-East Brazil,BR-NE,11.23,30.85,98.05,98.05,ons.org.br
+2024-09-09 00:00:00,Brazil,North-East Brazil,BR-NE,17.65,38.49,96.93,96.93,ons.org.br
+2024-09-10 00:00:00,Brazil,North-East Brazil,BR-NE,25.02,47.08,95.65,95.65,ons.org.br
+2024-09-11 00:00:00,Brazil,North-East Brazil,BR-NE,27.66,50.15,95.19,95.19,ons.org.br
+2024-09-12 00:00:00,Brazil,North-East Brazil,BR-NE,29.55,52.33,94.86,94.86,ons.org.br
+2024-09-13 00:00:00,Brazil,North-East Brazil,BR-NE,35.47,59.33,93.83,93.83,ons.org.br
+2024-09-14 00:00:00,Brazil,North-East Brazil,BR-NE,39.61,64.16,93.11,93.11,ons.org.br
+2024-09-15 00:00:00,Brazil,North-East Brazil,BR-NE,42.14,67.27,92.67,92.67,ons.org.br
+2024-09-16 00:00:00,Brazil,North-East Brazil,BR-NE,38.85,64.18,93.24,93.24,ons.org.br
+2024-09-17 00:00:00,Brazil,North-East Brazil,BR-NE,32.60,56.73,94.33,94.33,ons.org.br
+2024-09-18 00:00:00,Brazil,North-East Brazil,BR-NE,31.08,53.86,94.60,94.60,ons.org.br
+2024-09-19 00:00:00,Brazil,North-East Brazil,BR-NE,34.27,58.72,94.04,94.04,ons.org.br
+2024-09-20 00:00:00,Brazil,North-East Brazil,BR-NE,36.32,61.29,93.68,93.68,ons.org.br
+2024-09-21 00:00:00,Brazil,North-East Brazil,BR-NE,36.11,60.84,93.72,93.72,ons.org.br
+2024-09-22 00:00:00,Brazil,North-East Brazil,BR-NE,36.00,59.48,93.74,93.74,ons.org.br
+2024-09-23 00:00:00,Brazil,North-East Brazil,BR-NE,34.58,58.93,93.99,93.99,Electricity Maps Estimation; ons.org.br
+2024-09-24 00:00:00,Brazil,North-East Brazil,BR-NE,45.21,71.76,92.14,92.14,ons.org.br
+2024-09-25 00:00:00,Brazil,North-East Brazil,BR-NE,37.78,62.34,93.43,93.42,ons.org.br
+2024-09-26 00:00:00,Brazil,North-East Brazil,BR-NE,37.85,62.71,93.42,93.42,ons.org.br
+2024-09-27 00:00:00,Brazil,North-East Brazil,BR-NE,40.94,67.32,92.88,92.88,ons.org.br
+2024-09-28 00:00:00,Brazil,North-East Brazil,BR-NE,41.70,68.25,92.75,92.75,ons.org.br
+2024-09-29 00:00:00,Brazil,North-East Brazil,BR-NE,43.56,69.43,92.42,92.42,ons.org.br
+2024-09-30 00:00:00,Brazil,North-East Brazil,BR-NE,36.34,59.90,93.68,93.68,ons.org.br
+2024-10-01 00:00:00,Brazil,North-East Brazil,BR-NE,39.77,65.55,93.08,93.08,ons.org.br
+2024-10-02 00:00:00,Brazil,North-East Brazil,BR-NE,50.50,79.12,91.22,91.22,ons.org.br
+2024-10-03 00:00:00,Brazil,North-East Brazil,BR-NE,48.49,76.43,91.57,91.57,ons.org.br
+2024-10-04 00:00:00,Brazil,North-East Brazil,BR-NE,45.80,73.71,92.04,92.04,ons.org.br
+2024-10-05 00:00:00,Brazil,North-East Brazil,BR-NE,35.59,61.01,93.81,93.81,ons.org.br
+2024-10-06 00:00:00,Brazil,North-East Brazil,BR-NE,33.39,57.83,94.19,94.19,ons.org.br
+2024-10-07 00:00:00,Brazil,North-East Brazil,BR-NE,38.10,64.91,93.37,93.37,ons.org.br
+2024-10-08 00:00:00,Brazil,North-East Brazil,BR-NE,48.93,78.27,91.49,91.49,ons.org.br
+2024-10-09 00:00:00,Brazil,North-East Brazil,BR-NE,62.71,96.27,89.09,89.08,ons.org.br
+2024-10-10 00:00:00,Brazil,North-East Brazil,BR-NE,56.78,87.58,90.13,90.07,ons.org.br
+2024-10-11 00:00:00,Brazil,North-East Brazil,BR-NE,37.76,63.17,93.43,93.43,ons.org.br
+2024-10-12 00:00:00,Brazil,North-East Brazil,BR-NE,40.11,66.32,93.03,93.03,ons.org.br
+2024-10-13 00:00:00,Brazil,North-East Brazil,BR-NE,43.96,70.95,92.35,92.35,ons.org.br
+2024-10-14 00:00:00,Brazil,North-East Brazil,BR-NE,34.51,58.76,94.00,94.00,ons.org.br
+2024-10-15 00:00:00,Brazil,North-East Brazil,BR-NE,37.44,62.59,93.49,93.49,ons.org.br
+2024-10-16 00:00:00,Brazil,North-East Brazil,BR-NE,39.67,66.43,93.10,93.10,ons.org.br
+2024-10-17 00:00:00,Brazil,North-East Brazil,BR-NE,50.92,81.17,91.14,91.12,ons.org.br
+2024-10-18 00:00:00,Brazil,North-East Brazil,BR-NE,67.64,101.58,88.24,88.12,ons.org.br
+2024-10-19 00:00:00,Brazil,North-East Brazil,BR-NE,56.21,86.45,90.22,90.14,ons.org.br
+2024-10-20 00:00:00,Brazil,North-East Brazil,BR-NE,45.38,72.04,92.11,92.11,ons.org.br
+2024-10-21 00:00:00,Brazil,North-East Brazil,BR-NE,37.04,61.46,93.56,93.56,ons.org.br
+2024-10-22 00:00:00,Brazil,North-East Brazil,BR-NE,33.06,56.64,94.25,94.25,ons.org.br
+2024-10-23 00:00:00,Brazil,North-East Brazil,BR-NE,30.13,54.38,94.76,94.76,ons.org.br
+2024-10-24 00:00:00,Brazil,North-East Brazil,BR-NE,32.32,56.69,94.38,94.38,ons.org.br
+2024-10-25 00:00:00,Brazil,North-East Brazil,BR-NE,35.19,60.99,93.88,93.88,Electricity Maps Estimation; ons.org.br
+2024-10-26 00:00:00,Brazil,North-East Brazil,BR-NE,17.26,39.09,97.00,97.00,ons.org.br
+2024-10-27 00:00:00,Brazil,North-East Brazil,BR-NE,12.42,33.81,97.84,97.84,Electricity Maps Estimation; ons.org.br
+2024-10-28 00:00:00,Brazil,North-East Brazil,BR-NE,10.87,30.59,98.11,98.11,ons.org.br
+2024-10-29 00:00:00,Brazil,North-East Brazil,BR-NE,11.29,31.47,98.04,98.04,ons.org.br
+2024-10-30 00:00:00,Brazil,North-East Brazil,BR-NE,10.85,31.96,98.11,98.11,ons.org.br
+2024-10-31 00:00:00,Brazil,North-East Brazil,BR-NE,10.98,31.92,98.09,98.09,ons.org.br
+2024-11-01 00:00:00,Brazil,North-East Brazil,BR-NE,11.63,32.32,97.98,97.98,ons.org.br
+2024-11-02 00:00:00,Brazil,North-East Brazil,BR-NE,9.85,29.12,98.29,98.29,ons.org.br
+2024-11-03 00:00:00,Brazil,North-East Brazil,BR-NE,10.76,30.16,98.13,98.13,ons.org.br
+2024-11-04 00:00:00,Brazil,North-East Brazil,BR-NE,10.16,29.87,98.23,98.23,ons.org.br
+2024-11-05 00:00:00,Brazil,North-East Brazil,BR-NE,11.33,31.67,98.03,98.03,ons.org.br
+2024-11-06 00:00:00,Brazil,North-East Brazil,BR-NE,11.43,31.80,98.01,98.01,ons.org.br
+2024-11-07 00:00:00,Brazil,North-East Brazil,BR-NE,12.16,31.92,97.88,97.88,ons.org.br
+2024-11-08 00:00:00,Brazil,North-East Brazil,BR-NE,22.44,45.93,96.10,96.10,ons.org.br
+2024-11-09 00:00:00,Brazil,North-East Brazil,BR-NE,27.77,52.00,95.17,95.17,ons.org.br
+2024-11-10 00:00:00,Brazil,North-East Brazil,BR-NE,33.33,59.32,94.20,94.20,ons.org.br
+2024-11-11 00:00:00,Brazil,North-East Brazil,BR-NE,36.33,63.72,93.68,93.68,ons.org.br
+2024-11-12 00:00:00,Brazil,North-East Brazil,BR-NE,60.69,94.71,89.45,89.35,ons.org.br
+2024-11-13 00:00:00,Brazil,North-East Brazil,BR-NE,37.85,64.16,93.42,93.42,ons.org.br
+2024-11-14 00:00:00,Brazil,North-East Brazil,BR-NE,26.36,49.84,95.42,95.42,ons.org.br
+2024-11-15 00:00:00,Brazil,North-East Brazil,BR-NE,15.03,35.67,97.39,97.39,ons.org.br
+2024-11-16 00:00:00,Brazil,North-East Brazil,BR-NE,10.98,30.47,98.09,98.09,ons.org.br
+2024-11-17 00:00:00,Brazil,North-East Brazil,BR-NE,13.00,33.80,97.74,97.74,ons.org.br
+2024-11-18 00:00:00,Brazil,North-East Brazil,BR-NE,12.29,32.72,97.86,97.86,ons.org.br
+2024-11-19 00:00:00,Brazil,North-East Brazil,BR-NE,12.12,33.99,97.89,97.89,ons.org.br
+2024-11-20 00:00:00,Brazil,North-East Brazil,BR-NE,12.56,34.06,97.81,97.81,ons.org.br
+2024-11-21 00:00:00,Brazil,North-East Brazil,BR-NE,15.40,38.92,97.32,97.32,ons.org.br
+2024-11-22 00:00:00,Brazil,North-East Brazil,BR-NE,27.66,55.56,95.19,95.13,ons.org.br
+2024-11-23 00:00:00,Brazil,North-East Brazil,BR-NE,30.57,59.88,94.68,94.55,ons.org.br
+2024-11-24 00:00:00,Brazil,North-East Brazil,BR-NE,26.49,53.98,95.39,95.22,ons.org.br
+2024-11-25 00:00:00,Brazil,North-East Brazil,BR-NE,14.60,36.25,97.46,97.46,ons.org.br
+2024-11-26 00:00:00,Brazil,North-East Brazil,BR-NE,18.18,40.48,96.84,96.84,ons.org.br
+2024-11-27 00:00:00,Brazil,North-East Brazil,BR-NE,21.29,44.20,96.30,96.30,ons.org.br
+2024-11-28 00:00:00,Brazil,North-East Brazil,BR-NE,19.42,41.48,96.62,96.62,ons.org.br
+2024-11-29 00:00:00,Brazil,North-East Brazil,BR-NE,21.34,44.94,96.29,96.29,ons.org.br
+2024-11-30 00:00:00,Brazil,North-East Brazil,BR-NE,49.03,77.46,91.47,91.47,ons.org.br
+2024-12-01 00:00:00,Brazil,North-East Brazil,BR-NE,56.82,87.97,90.12,90.12,ons.org.br
+2024-12-02 00:00:00,Brazil,North-East Brazil,BR-NE,64.67,97.81,88.75,88.75,ons.org.br
+2024-12-03 00:00:00,Brazil,North-East Brazil,BR-NE,72.07,106.69,87.47,87.47,ons.org.br
+2024-12-04 00:00:00,Brazil,North-East Brazil,BR-NE,64.02,96.89,88.87,88.86,ons.org.br
+2024-12-05 00:00:00,Brazil,North-East Brazil,BR-NE,48.63,78.01,91.54,91.54,ons.org.br
+2024-12-06 00:00:00,Brazil,North-East Brazil,BR-NE,21.51,44.30,96.26,96.26,ons.org.br
+2024-12-07 00:00:00,Brazil,North-East Brazil,BR-NE,13.21,34.30,97.70,97.70,ons.org.br
+2024-12-08 00:00:00,Brazil,North-East Brazil,BR-NE,15.85,38.15,97.24,97.24,ons.org.br
+2024-12-09 00:00:00,Brazil,North-East Brazil,BR-NE,22.25,45.65,96.13,96.13,Electricity Maps Estimation; ons.org.br
+2024-12-10 00:00:00,Brazil,North-East Brazil,BR-NE,13.93,35.74,97.58,97.58,ons.org.br
+2024-12-11 00:00:00,Brazil,North-East Brazil,BR-NE,12.93,35.87,97.75,97.75,ons.org.br
+2024-12-12 00:00:00,Brazil,North-East Brazil,BR-NE,10.94,33.15,98.10,98.10,ons.org.br
+2024-12-13 00:00:00,Brazil,North-East Brazil,BR-NE,7.92,27.38,98.62,98.62,ons.org.br
+2024-12-14 00:00:00,Brazil,North-East Brazil,BR-NE,10.18,30.89,98.23,98.23,ons.org.br
+2024-12-15 00:00:00,Brazil,North-East Brazil,BR-NE,12.27,33.85,97.87,97.87,ons.org.br
+2024-12-16 00:00:00,Brazil,North-East Brazil,BR-NE,10.70,31.49,98.14,98.14,ons.org.br
+2024-12-17 00:00:00,Brazil,North-East Brazil,BR-NE,11.42,32.99,98.01,98.01,ons.org.br
+2024-12-18 00:00:00,Brazil,North-East Brazil,BR-NE,15.94,38.43,97.23,97.23,ons.org.br
+2024-12-19 00:00:00,Brazil,North-East Brazil,BR-NE,24.50,48.08,95.74,95.74,ons.org.br
+2024-12-20 00:00:00,Brazil,North-East Brazil,BR-NE,29.11,52.69,94.94,94.94,ons.org.br
+2024-12-21 00:00:00,Brazil,North-East Brazil,BR-NE,17.69,40.25,96.92,96.92,ons.org.br
+2024-12-22 00:00:00,Brazil,North-East Brazil,BR-NE,11.48,31.97,98.00,97.99,ons.org.br
+2024-12-23 00:00:00,Brazil,North-East Brazil,BR-NE,13.37,35.46,97.67,97.67,ons.org.br
+2024-12-24 00:00:00,Brazil,North-East Brazil,BR-NE,13.40,36.23,97.67,97.65,ons.org.br
+2024-12-25 00:00:00,Brazil,North-East Brazil,BR-NE,20.79,44.67,96.38,96.34,ons.org.br
+2024-12-26 00:00:00,Brazil,North-East Brazil,BR-NE,12.05,33.12,97.90,97.90,ons.org.br
+2024-12-27 00:00:00,Brazil,North-East Brazil,BR-NE,11.52,32.18,98.00,98.00,ons.org.br
+2024-12-28 00:00:00,Brazil,North-East Brazil,BR-NE,12.70,33.24,97.79,97.79,Electricity Maps Estimation; ons.org.br
+2024-12-29 00:00:00,Brazil,North-East Brazil,BR-NE,14.09,35.32,97.55,97.55,ons.org.br
+2024-12-30 00:00:00,Brazil,North-East Brazil,BR-NE,15.08,37.46,97.38,97.38,ons.org.br
+2024-12-31 00:00:00,Brazil,North-East Brazil,BR-NE,16.52,39.36,97.13,97.12,ons.org.br

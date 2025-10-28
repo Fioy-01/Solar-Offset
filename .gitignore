@@ -1,0 +1,69 @@
+# -----------------------------
+# Node / React related
+# -----------------------------
+node_modules/
+myapp/node_modules/
+myapp/dist/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+# Python related
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
+env/
+*.log
+
+# -----------------------------
+# IDE / Editor configs
+# -----------------------------
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# -----------------------------
+# System / OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# -----------------------------
+# Output / Docs
+# -----------------------------
+*.pdf
+*.tmp
+*.bak
+*.zip
+*.rar
+
+# -----------------------------
+# Flask specific (optional)
+# -----------------------------
+instance/
+*.db
+*.sqlite3
+
+# ------------------------
+#Tests / Coverage
+# -----------------------------
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
